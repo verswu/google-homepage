@@ -1,0 +1,68 @@
+div {
+
+}
+
+.main {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#google_pic {
+    height:80px;
+}
+
+#box {
+    width: 450px;
+    height: 25px;
+    border: #BBBBBB solid 1px;
+}
+
+#box:hover{
+    border: #AAAAAA solid 1px;
+}
+
+#submit, #lucky {
+    border: #BBBBBB solid 1px;
+    background-color: #EEEEEE;
+    border-radius: 1px;
+    height: 30px;
+    font-weight: bold;
+    color:#444444;
+}
+
+#submit:hover, #lucky:hover {
+    border: #AAAAAA solid 1px;
+    box-shadow: 1px 1px 1px #EEEEEE;
+}
+
+.navbar {
+    text-align: right;
+}
+
+ul{
+    list-style-type:none;
+}
+
+li{
+    display:inline;
+}
+a{
+    text-decoration:none;
+    font-family:Lucida Grande;
+    color:#444444;
+}
+
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    background-color:#EEEEEE;
+}
+
+#business {
+    float:left;
+}
+
+#personal {
+    float:right;
+}
